@@ -1,0 +1,9 @@
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\bin\Debug\netstandard2.0\GamePieces.deps.json
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\bin\Debug\netstandard2.0\GamePieces.dll
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\bin\Debug\netstandard2.0\GamePieces.pdb
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\obj\Debug\netstandard2.0\GamePieces.csprojAssemblyReference.cache
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\obj\Debug\netstandard2.0\GamePieces.csproj.CoreCompileInputs.cache
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\obj\Debug\netstandard2.0\GamePieces.AssemblyInfoInputs.cache
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\obj\Debug\netstandard2.0\GamePieces.AssemblyInfo.cs
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\obj\Debug\netstandard2.0\GamePieces.dll
+C:\Users\cesmi\source\repos\GamePieces\GamePieces\obj\Debug\netstandard2.0\GamePieces.pdb

@@ -1,0 +1,9 @@
+C:\Users\cesmi\source\repos\GamePieces\War\bin\Debug\War.exe.config
+C:\Users\cesmi\source\repos\GamePieces\War\bin\Debug\War.exe
+C:\Users\cesmi\source\repos\GamePieces\War\bin\Debug\War.pdb
+C:\Users\cesmi\source\repos\GamePieces\War\obj\Debug\War.Properties.Resources.resources
+C:\Users\cesmi\source\repos\GamePieces\War\obj\Debug\War.csproj.GenerateResource.cache
+C:\Users\cesmi\source\repos\GamePieces\War\obj\Debug\War.csproj.CoreCompileInputs.cache
+C:\Users\cesmi\source\repos\GamePieces\War\obj\Debug\War.exe
+C:\Users\cesmi\source\repos\GamePieces\War\obj\Debug\War.pdb
+C:\Users\cesmi\source\repos\GamePieces\War\obj\Debug\War.WarMainForm.resources
